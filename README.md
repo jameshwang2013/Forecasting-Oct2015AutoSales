@@ -1,4 +1,4 @@
-# OPIM314-Internet-Data-Analytics----Assignment-1
+# Forecasting-Oct2015AutoSales
 Predicting US auto sales for October 2015 (as of September 30, 2015)
 
 - please read through the assignment instructions in "Assignment 1--Google Trends"
