@@ -386,6 +386,6 @@ coefficients(fit_ts2)
 pred_6 <- exp((1.063763 * (10^1)) + ((4.133104 * (10^-3)) * 60) + ((-4.321430 * (10^-3)) * 1) + ((5.791333 * (10^-6)) * 87547.04))         # fit_ts2: prediction(Sep): 87787.02
 
 values2 <- c(pred_4,pred_5,pred_6)
-auto_sales_oct <- mean(values2) # 88265.19
+auto_sales_oct <- mean(values2) # 87547.04
 
 
